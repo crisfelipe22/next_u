@@ -26,6 +26,6 @@ end
 declare Add Xor
 fun {Add N1 N2} N1-N2 end
 
-{Browse {GenericPascal Add 10}}
 
 ####pruebaaaaa
+##helllo
